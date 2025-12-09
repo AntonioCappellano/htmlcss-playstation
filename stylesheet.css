@@ -48,6 +48,12 @@
 .takes-banner {
   height: 100px;
 }
+
+.container-games {
+  background-color: #1f1f1f;
+  color: white;
+}
+
 @media screen and (min-width: 992px) {
   .takes-banner {
     height: 300px;
