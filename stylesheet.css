@@ -77,4 +77,8 @@ img {
   .takes-banner {
     height: 300px;
   }
+
+  .social {
+    height: 50%;
+  }
 }
