@@ -5,9 +5,24 @@
 
 .sony-logo {
   height: 30px;
+  width: 100%;
   background-color: #000000;
   background-image: url(./img/sony_logo.svg);
   background-repeat: no-repeat;
   background-position: right;
   background-size: 80px;
+}
+
+.container-bg {
+  background-image: url(./img/jumbo-bg.png);
+  background-color: #cccccc;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.hero-banner {
+  height: 50px;
 }
