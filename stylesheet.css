@@ -21,6 +21,13 @@
   background-size: cover;
   background-position: center;
   color: white;
+  position: relative;
+}
+.container-banner {
+  position: absolute;
+
+  bottom: 8px;
+  left: 16px;
 }
 
 .hero-banner {
