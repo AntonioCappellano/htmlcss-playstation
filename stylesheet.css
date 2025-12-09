@@ -1,0 +1,13 @@
+.debug {
+  height: 50px;
+  border: 1px solid red;
+}
+
+.sony-logo {
+  height: 30px;
+  background-color: #000000;
+  background-image: url(./img/sony_logo.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 80px;
+}
