@@ -73,6 +73,21 @@ img {
   color: white;
 }
 
+footer {
+  background-color: #00439c;
+  color: white;
+}
+
+.ps-footer {
+  width: 20px;
+  float: left;
+  margin-right: 5px;
+}
+
+.sonysie-logo {
+  width: 150px;
+}
+
 @media screen and (min-width: 992px) {
   .takes-banner {
     height: 300px;
