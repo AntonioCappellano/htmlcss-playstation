@@ -3,6 +3,12 @@
   border: 1px solid red;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .sony-logo {
   height: 30px;
   width: 100%;
@@ -31,7 +37,7 @@
 }
 
 .hero-banner {
-  height: 50px;
+  height: 50%;
 }
 
 .container-it {
@@ -52,6 +58,14 @@
 .container-games {
   background-color: #1f1f1f;
   color: white;
+}
+
+.plus {
+  background-color: #bebcbb;
+}
+
+.logo-img {
+  height: 50px;
 }
 
 @media screen and (min-width: 992px) {
