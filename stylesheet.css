@@ -68,6 +68,11 @@ img {
   height: 50px;
 }
 
+.ps-now {
+  background-color: #161c3b;
+  color: white;
+}
+
 @media screen and (min-width: 992px) {
   .takes-banner {
     height: 300px;
